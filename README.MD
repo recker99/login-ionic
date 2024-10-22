@@ -25,19 +25,19 @@ La **Retail Store App** es una aplicación desarrollada en Ionic y Angular que p
 A continuación algunas capturas de pantalla de la aplicación:
 
 ### Pantalla de inicio
-![Pantalla de inicio](./login-ionic/src/assets/images/home-welcome1.jpg)
+![Pantalla de inicio](src/assets/images/home-welcome1.jpg)
 
 ### Pantalla de inicio usuario
-![Pantalla de inicio](./login-ionic/src/assets/images/home-welcome.jpg)
+![Pantalla de inicio](src/assets/images/home-welcome.jpg)
 
 ### Perfil del usuario
-![Perfil del usuario](/login-ionic/src/assets/images/profile-menu.jpg)
+![Perfil del usuario](src/assets/images/profile-menu.jpg)
 
 ### Menu
-![Menu](/login-ionic/src/assets/images/menu-1.jpg)
+![Menu](src/assets/images/menu-1.jpg)
 
 ### Login
-![Login](/login-ionic/src/assets/images/login-1.jpg)
+![Login](src/assets/images/login-1.jpg)
 
 ## Instalación
 
