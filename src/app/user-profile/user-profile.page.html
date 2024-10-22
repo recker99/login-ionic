@@ -1,0 +1,19 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>User Profile</ion-title>
+    <ion-buttons slot="end">
+      <ion-button (click)="logout()">Logout</ion-button>
+    </ion-buttons>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <div *ngIf="userName">
+    <h2>Welcome, {{ userName }}!</h2>
+    <p>Email: {{ userEmail }}</p>
+  </div>
+
+  <div *ngIf="!userName">
+    <h2>Please log in to see your profile.</h2>
+  </div>
+</ion-content>
